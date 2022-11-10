@@ -1,0 +1,15 @@
+body {background-color: darkred; display: flex; 
+    text-align:center; justify-content:center;}
+h1{color: lightgreen; border: solid;}
+.facts {color: lightblue; border: solid;}
+h3 {color:yellow;}
+ul {color:yellow; list-style-type:none;}
+h4 {color:orange}
+ol {list-style-type:none; text-align:center;}
+img {border: solid;}
+p em {border: inset; color:pink}
+.card {width:399px;border: solid}
+.Animalslist {border: solid;}
+.information1 {border: solid;}
+.information2 {border: solid;}
+.information3 {border: solid;}
